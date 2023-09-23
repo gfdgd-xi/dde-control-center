@@ -1,7 +1,7 @@
 Source: dde-control-center
 Section: admin
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Maintainer: gfdgd-xi<3025613752@qq.com>, Deepin Sysdev <sysdev@deepin.com>
 Build-Depends:
  debhelper-compat (= 12),
  pkg-config,
