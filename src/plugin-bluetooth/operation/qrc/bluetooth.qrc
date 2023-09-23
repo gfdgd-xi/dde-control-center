@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons/deepin/builtin">
+        <file>icons/dcc_nav_bluetooth_42px.svg</file>
+        <file>icons/dcc_nav_bluetooth_84px.svg</file>
+        <file>texts/bluetooth_other_16px.svg</file>
+        <file>texts/dcc_edit_12px.svg</file>
+        <file>texts/dcc_refresh_12px.svg</file>
+    </qresource>
+</RCC>
